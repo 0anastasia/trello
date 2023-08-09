@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1rqrxrdwxgtby7ft?svg=true)](https://ci.appveyor.com/project/0anastasia/trello)
+https://0anastasia.github.io/trello/
+
 ## Работа с файлами, DnD
 yarn
 Фактически у вас есть доска, состоящая из колонок, в каждой колонке может быть несколько карточек.
